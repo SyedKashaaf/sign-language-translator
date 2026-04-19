@@ -2,7 +2,7 @@
 
 **Live webcam ASL alphabet detector with multi-language translation, text-to-speech, and auto-speak mode**
 
-![Sign Language Translator App](app_demo)
+![Sign Language Translator App](app_demo.png)
 
 ## ✨ Project Overview
 This project is a **real-time American Sign Language (ASL) detection application** developed as part of our BS Artificial Intelligence final project at Capital University of Science & Technology (CUST), Islamabad.
