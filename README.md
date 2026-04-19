@@ -2,7 +2,7 @@
 
 **Live webcam ASL alphabet detector with multi-language translation, text-to-speech, and auto-speak mode**
 
-![Sign Language Translator App](app_demo.png)
+![Sign Language Translator App](app_demo)
 
 ## ✨ Project Overview
 This project is a **real-time American Sign Language (ASL) detection application** developed as part of our BS Artificial Intelligence final project at Capital University of Science & Technology (CUST), Islamabad.
@@ -54,7 +54,7 @@ sign-language-translator/
 
 ## 🧪 How to Run Locally
 
-1. Clone the repository:
+   Clone the repository:
    ```bash
    git clone https://github.com/yourusername/sign-language-translator.git
    cd sign-language-translator
